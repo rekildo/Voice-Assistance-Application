@@ -1,0 +1,10 @@
+open chrome
+close chrome
+open youtube
+close youtube
+open paint
+close paint
+play music
+stop music
+open excel
+close excel
