@@ -24,4 +24,4 @@ This voice assistance application is built using Java and Sphinx4, providing use
 - **Sphinx4:** Open source speech recognition system written in Java
 
 ## Glims
-![Uploading jarvis.png…]()
+![jarvis](https://github.com/rekildo/Voice-Assistance-Application/assets/77988632/0fe864c0-1e33-45c6-8016-8e5ee7350fc3)
