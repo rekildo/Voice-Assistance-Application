@@ -12,3 +12,13 @@ This voice assistance application is built using Java and Sphinx4, providing use
 - **Application Control:** Open and close applications like Chrome, Paint, Excel, etc., using voice commands.
 - **Music Playback:** Play and control music playback using voice commands.
 
+## Voice Commands
+- Open Chrome: "Open Chrome"
+- Open Paint: "Open Paint"
+- Open Excel: "Open Excel"
+- Close Application: "Close Application-Name"
+- Play Music: "Play Music"
+- Stop Music: "Stop Music"
+
+## Dependencies
+- **Sphinx4:** Open source speech recognition system written in Java
